@@ -1,0 +1,15 @@
+{
+    "name":"search image",
+    "short_name":"image pwa",
+    "start_url":".",
+    "background_color":"#5250eb",
+    "theme_color":"#5250eb",
+    "display":"standalone",
+    "icon":[ 
+    {
+        "src":"image/Chess.png",
+        "size":"144x144",
+        "type":"image/chess.png"
+    }
+]
+}
